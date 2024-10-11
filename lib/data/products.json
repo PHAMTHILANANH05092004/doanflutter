@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Gà sống",
+        "imageUrl": "assets/products/chicken.png",
+        "category": "Lợn, Bò, Gà, Cá"
+    },
+    {
+        "name": "Thịt lợn",
+        "imageUrl": "assets/products/pork.png",
+        "category": "Lợn, Bò, Gà, Cá"
+    },
+    {
+        "name": "Thịt bò",
+        "imageUrl": "assets/products/beef.png",
+        "category": "Lợn, Bò, Gà, Cá"
+    },
+    {
+        "name": "Tôm",
+        "imageUrl": "assets/products/shrimp.png",
+        "category": "Thủy, Hải Sản"
+    },
+    {
+        "name": "Cá hồi",
+        "imageUrl": "assets/products/salmon.png",
+        "category": "Thủy, Hải Sản"
+    }
+]

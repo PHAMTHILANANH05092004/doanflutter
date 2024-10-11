@@ -1,0 +1,65 @@
+[
+    {
+      "id": 1,
+      "name": "Rau má",
+      "price": 150000.0,
+      "image_url": "https://drive.google.com/uc?export=view&id=12awxDBKeYy5rZD9PjBI6ciQfCGn6MMlS"
+     
+      
+    },
+    {
+      "id": 2,
+      "name": "Lõi lạc bò",
+      "price": 200000.0,
+      "image_url": "https://drive.google.com/uc?export=view&id=1J-QskTYvc80dA2TuhsewoiUQcIzvuQDe"
+    },
+    {
+      "id": 3,
+      "name": "trứng cút",
+      "price": 250000.0,
+      "image_url": "https://drive.google.com/uc?export=view&id=1SJGnkx9ba60kzzZeq8kaIr3GRf4qNDgj"
+    },
+    {
+      "id": 4,
+      "name": "Xà lách",
+      "price": 300000.0,
+      "image_url": "https://drive.google.com/uc?export=view&id=1Yz-OnTMT_nwOd_ahUxY9CvLi34FUmxgs"
+    },
+    {
+      "id": 5,
+      "name": "cải bắp",
+      "price": 350000.0,
+      "image_url": "https://drive.google.com/uc?export=view&id=1utq8bB5DUy7fcr4ub0K91wKbWuP1wFPE"
+    },
+    {
+      "id": 4,
+      "name": "Xà lách",
+      "price": 300000.0,
+      "image_url": "https://drive.google.com/uc?export=view&id=1Yz-OnTMT_nwOd_ahUxY9CvLi34FUmxgs"
+    },
+    {
+      "id": 4,
+      "name": "Xà lách",
+      "price": 300000.0,
+      "image_url": "https://drive.google.com/uc?export=view&id=1Yz-OnTMT_nwOd_ahUxY9CvLi34FUmxgs"
+    },
+    {
+      "id": 4,
+      "name": "Xà lách",
+      "price": 300000.0,
+      "image_url": "https://drive.google.com/uc?export=view&id=1Yz-OnTMT_nwOd_ahUxY9CvLi34FUmxgs"
+    },
+    {
+      "id": 4,
+      "name": "Xà lách",
+      "price": 300000.0,
+      "image_url": "https://drive.google.com/uc?export=view&id=1Yz-OnTMT_nwOd_ahUxY9CvLi34FUmxgs"
+    },
+    {
+      "id": 4,
+      "name": "Xà lách",
+      "price": 300000.0,
+      "image_url": "https://drive.google.com/uc?export=view&id=1Yz-OnTMT_nwOd_ahUxY9CvLi34FUmxgs"
+    }
+  ]
+  
